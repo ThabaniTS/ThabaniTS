@@ -1,5 +1,5 @@
 ## Hi there 👋
-These are my Cloud Security Projects for Learning
+This repository contains cloud security projects designed to demonstrate key security skills and practices
 <!--
 **ThabaniTS/ThabaniTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
